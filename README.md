@@ -1,5 +1,6 @@
 # sanity-scan
 This is an update.
+This is another update.
 
 ## Prerequisites
 - java 11
